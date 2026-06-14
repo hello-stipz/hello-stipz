@@ -4,14 +4,14 @@
 <br>
 
 ### ✅ PROFESSIONAL FOCUS
-> I build reliable systems in the public sector, where simple solutions to complex domains actually matter. Over time, I’ve taken on increasing responsibility by delivering work that holds up under real-world constraints. I care about building things that are functional, robust, maintainable, and actually usable in practice.
+> I build reliable systems in the public sector, where simple solutions to complex domains matter. Over time, I’ve taken on increasing responsibility by delivering work that holds up under real-world constraints. I care about building things that are functional, robust, maintainable, and actually usable in practice.
 
 ### ✅ PERSONAL INSIGHT
-> I care about how systems feel to use - from dev to end-user. Also, my bio probably already revealed it, I’m a feminist, which shapes how I think about systems, responsibility and who benefits from them (technically or otherwise). It often influences my perspective on usability and design decisions.
+> I care about how systems feel to use - from dev to enduser. Also, my bio probably already revealed it, I’m a feminist, which shapes how I think about systems, responsibility and who benefits from them (technically or otherwise). It often influences my perspective on usability and design decisions.
 
 ### ✅ ABOUT MY HUB
-> For now, most of my GitHub will be side projects ~ some intentional, some experimental. They’re usually just ways of understanding things more deeply by building them. So this page is currently just a small landing spot. I might add more showcases over time, depending on my free time... which, like for most people, is limited.
+> For now, most of my GitHub will be side projects. Some intentional, some experimental. They’re usually just ways of understanding things more deeply by building them. So this page is currently just a small landing spot. I might add more showcases over time, depending on my free time... which, like for most people, is limited.
 
 <br><br><br>
 
-<sub>Sidenote: I love communication and writing and it breaks my heart that AI made it impossible to use <mark>-</mark> so I substitute with ~</sub>
+<sub>Sidenote: I love communication and writing and it breaks my heart that AI made it impossible to use <mark><b>-</b></mark></sub>
